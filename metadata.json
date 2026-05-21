@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Indicações e Recompensas",
+  "description": "Sistema completo para controle de clientes, indicações, cashback e previsão de recompensas, pronto para hospedagem própria em VPS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
